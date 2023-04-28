@@ -13,6 +13,5 @@ public class BookTest {
 
         // Q. 책 한 권을 저장할 변수를 선언하시오.
         Book b = new Book();
-        b.author = "박매일";
     }
 }
